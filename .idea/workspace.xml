@@ -32,7 +32,7 @@
       <file leaf-file-name="secrets.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/secrets.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
+            <state relative-caret-position="18">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
@@ -291,12 +291,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519394479212</updated>
-      <workItem from="1519394480747" duration="2997000" />
+      <workItem from="1519394480747" duration="3169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2997000" />
+    <option name="totallyTimeSpent" value="3169000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,7 +341,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/secrets.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
+        <state relative-caret-position="18">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
